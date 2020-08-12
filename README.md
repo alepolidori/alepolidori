@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+📫 How to reach me:
+
+- [Twitter](https://twitter.com/ale_polidori)
+- [Linkedin](https://www.linkedin.com/in/alessandropolidori/)
+- Email: alessandro.polidori [at] gmail [dot] com
+
+
 <!--
 **alepolidori/alepolidori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
